@@ -55,16 +55,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [puter](https://github.com/shyam1107/puter) | 🌐 The Internet OS — Free, Open-Source & Self-Hostable | JavaScript |
-| [claw-code-parity](https://github.com/shyam1107/claw-code-parity) | 🦀 Rust port parity work for claw-code | Rust |
-| [form-extractor-prototype](https://github.com/shyam1107/form-extractor-prototype) | 📋 Form extraction prototype | JavaScript |
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
