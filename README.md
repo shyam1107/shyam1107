@@ -1,6 +1,6 @@
 # Shyam Sunder Sarkar
 
-Full-stack developer building AI products: RAG pipelines, LLM chat and voice apps, and the backends and React frontends around them. 4+ years shipping Node.js, Python and Go services to production.
+Full-stack developer building AI products: RAG pipelines, LLM chat and voice apps, and the backends and React frontends around them. 5+ years shipping Node.js, Python and Go services to production.
 
 **Open to freelance work.**
 
